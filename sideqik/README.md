@@ -1,7 +1,7 @@
 # Sidekiq
 
 ## What is Sidekiq?
-Sidekiq is a framework that may be installed with a a simple addition to your Rails Gemfile:
+Sidekiq is a framework that may be installed with a simple addition to your Rails Gemfile:
 
 ```gem 'sidekiq'
 ```
